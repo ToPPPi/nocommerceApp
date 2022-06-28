@@ -1,0 +1,6 @@
+1. Go to project folder and create a new run.bat
+2. Insert "pytest -v -s -m "sanity" --html=Reports\report.html testCases/ --browser chrome" into a run.bat file.
+3. "rem pytest -v -s -m "sanity" --html=Reports\report.html testCases/ --browser chrome" rem command игнорирует остальные строки в файле.
+4. Run the file.
+
+

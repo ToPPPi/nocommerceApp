@@ -1,0 +1,3 @@
+conftest.py - Служит чтобы заменить повторяющие действия в testCases.
+Например:
+- self.driver = webdriver.Chrome()

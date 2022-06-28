@@ -1,0 +1,234 @@
+06/27/2022 05:34:11 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/27/2022 05:34:17 PM: INFO: ************** Login is successful **************
+06/27/2022 05:34:17 PM: INFO: ************** Starting Search Customer By Email **************
+06/27/2022 05:36:17 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/27/2022 05:36:24 PM: INFO: ************** Login is successful **************
+06/27/2022 05:36:24 PM: INFO: ************** Starting Search Customer By Email **************
+06/27/2022 05:42:16 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/27/2022 05:42:23 PM: INFO: ************** Login is successful **************
+06/27/2022 05:42:23 PM: INFO: ************** Starting Search Customer By Email **************
+06/27/2022 05:45:15 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/27/2022 05:45:21 PM: INFO: ************** Login is successful **************
+06/27/2022 05:45:21 PM: INFO: ************** Starting Search Customer By Email **************
+06/27/2022 05:47:42 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/27/2022 05:48:05 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/27/2022 05:48:19 PM: INFO: ************** Login is successful **************
+06/27/2022 05:48:19 PM: INFO: ************** Starting Search Customer By Email **************
+06/27/2022 05:50:13 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/27/2022 05:50:20 PM: INFO: ************** Login is successful **************
+06/27/2022 05:50:20 PM: INFO: ************** Starting Search Customer By Email **************
+06/27/2022 05:57:03 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/27/2022 05:57:10 PM: INFO: ************** Login is successful **************
+06/27/2022 05:57:10 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:27:42 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:27:48 PM: INFO: ************** Login is successful **************
+06/28/2022 12:27:48 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:28:10 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:28:17 PM: INFO: ************** Login is successful **************
+06/28/2022 12:28:17 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:29:12 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:29:18 PM: INFO: ************** Login is successful **************
+06/28/2022 12:29:18 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:30:04 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:30:10 PM: INFO: ************** Login is successful **************
+06/28/2022 12:30:10 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:32:19 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:32:26 PM: INFO: ************** Login is successful **************
+06/28/2022 12:32:26 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:33:43 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:33:49 PM: INFO: ************** Login is successful **************
+06/28/2022 12:33:49 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:34:44 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:34:50 PM: INFO: ************** Login is successful **************
+06/28/2022 12:34:50 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:34:54 PM: INFO: ************** Email is found and present. **************
+06/28/2022 12:34:54 PM: INFO: ************** Test Case 004 is Passed. **************
+06/28/2022 12:35:34 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:35:40 PM: INFO: ************** Login is successful **************
+06/28/2022 12:35:40 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:36:26 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:36:33 PM: INFO: ************** Login is successful **************
+06/28/2022 12:36:33 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:37:02 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:37:08 PM: INFO: ************** Login is successful **************
+06/28/2022 12:37:08 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:37:13 PM: INFO: ************** Email is found and present. **************
+06/28/2022 12:37:13 PM: INFO: ************** Test Case 005 is Passed. **************
+06/28/2022 12:37:21 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:37:27 PM: INFO: ************** Login is successful **************
+06/28/2022 12:37:27 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:37:32 PM: INFO: ************** Email is found and present. **************
+06/28/2022 12:37:32 PM: INFO: ************** Test Case 005 is Passed. **************
+06/28/2022 12:41:05 PM: INFO: ************** Test_001_Login **************
+06/28/2022 12:41:05 PM: INFO: *********** Verifying Home Page **************
+06/28/2022 12:41:08 PM: INFO: *********** CheckHomePageTitle is passed **************
+06/28/2022 12:41:09 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:41:13 PM: INFO: ************** Test_001_Login **************
+06/28/2022 12:41:13 PM: INFO: *********** Verifying Home Page **************
+06/28/2022 12:41:20 PM: INFO: *********** CheckHomePageTitle is passed **************
+06/28/2022 12:41:21 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:52:37 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:52:37 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:52:37 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:52:37 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:52:37 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:52:43 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:52:43 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:52:43 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:52:43 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:52:43 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:53:07 PM: INFO: *********** Verifying Login DDT Test **************
+06/28/2022 12:53:07 PM: INFO: *********** Verifying Login DDT Test **************
+06/28/2022 12:53:07 PM: INFO: *********** Verifying Login DDT Test **************
+06/28/2022 12:53:07 PM: INFO: *********** Verifying Login DDT Test **************
+06/28/2022 12:53:07 PM: INFO: *********** Verifying Login DDT Test **************
+06/28/2022 12:53:18 PM: INFO: Passed
+06/28/2022 12:53:18 PM: INFO: Passed
+06/28/2022 12:53:18 PM: INFO: Passed
+06/28/2022 12:53:18 PM: INFO: Passed
+06/28/2022 12:53:18 PM: INFO: Passed
+06/28/2022 12:53:25 PM: INFO: Passed
+06/28/2022 12:53:25 PM: INFO: Passed
+06/28/2022 12:53:25 PM: INFO: Passed
+06/28/2022 12:53:25 PM: INFO: Passed
+06/28/2022 12:53:25 PM: INFO: Passed
+06/28/2022 12:53:31 PM: INFO: Passed
+06/28/2022 12:53:31 PM: INFO: Passed
+06/28/2022 12:53:31 PM: INFO: Passed
+06/28/2022 12:53:31 PM: INFO: Passed
+06/28/2022 12:53:31 PM: INFO: Passed
+06/28/2022 12:53:37 PM: INFO: Passed
+06/28/2022 12:53:37 PM: INFO: Passed
+06/28/2022 12:53:37 PM: INFO: Passed
+06/28/2022 12:53:37 PM: INFO: Passed
+06/28/2022 12:53:37 PM: INFO: Passed
+06/28/2022 12:53:37 PM: INFO: Login DDT test is passed.
+06/28/2022 12:53:37 PM: INFO: Login DDT test is passed.
+06/28/2022 12:53:37 PM: INFO: Login DDT test is passed.
+06/28/2022 12:53:37 PM: INFO: Login DDT test is passed.
+06/28/2022 12:53:37 PM: INFO: Login DDT test is passed.
+06/28/2022 12:53:37 PM: INFO: End of Login DDT Test
+06/28/2022 12:53:37 PM: INFO: End of Login DDT Test
+06/28/2022 12:53:37 PM: INFO: End of Login DDT Test
+06/28/2022 12:53:37 PM: INFO: End of Login DDT Test
+06/28/2022 12:53:37 PM: INFO: End of Login DDT Test
+06/28/2022 12:53:37 PM: INFO: Completed Test_002_DDT_Login
+06/28/2022 12:53:37 PM: INFO: Completed Test_002_DDT_Login
+06/28/2022 12:53:37 PM: INFO: Completed Test_002_DDT_Login
+06/28/2022 12:53:37 PM: INFO: Completed Test_002_DDT_Login
+06/28/2022 12:53:37 PM: INFO: Completed Test_002_DDT_Login
+06/28/2022 12:53:38 PM: INFO: ************** Test_001_Login **************
+06/28/2022 12:53:38 PM: INFO: ************** Test_001_Login **************
+06/28/2022 12:53:38 PM: INFO: ************** Test_001_Login **************
+06/28/2022 12:53:38 PM: INFO: ************** Test_001_Login **************
+06/28/2022 12:53:38 PM: INFO: ************** Test_001_Login **************
+06/28/2022 12:53:38 PM: INFO: *********** Verifying Home Page **************
+06/28/2022 12:53:38 PM: INFO: *********** Verifying Home Page **************
+06/28/2022 12:53:38 PM: INFO: *********** Verifying Home Page **************
+06/28/2022 12:53:38 PM: INFO: *********** Verifying Home Page **************
+06/28/2022 12:53:38 PM: INFO: *********** Verifying Home Page **************
+06/28/2022 12:53:40 PM: INFO: *********** CheckHomePageTitle is passed **************
+06/28/2022 12:53:40 PM: INFO: *********** CheckHomePageTitle is passed **************
+06/28/2022 12:53:40 PM: INFO: *********** CheckHomePageTitle is passed **************
+06/28/2022 12:53:40 PM: INFO: *********** CheckHomePageTitle is passed **************
+06/28/2022 12:53:40 PM: INFO: *********** CheckHomePageTitle is passed **************
+06/28/2022 12:53:41 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:53:41 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:53:41 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:53:41 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:53:41 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:53:46 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:53:46 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:53:46 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:53:46 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:53:46 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:53:47 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:53:47 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:53:47 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:53:47 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:53:47 PM: INFO: ************** Test_004_SearchCustomerByEmail **************
+06/28/2022 12:53:54 PM: INFO: ************** Login is successful **************
+06/28/2022 12:53:54 PM: INFO: ************** Login is successful **************
+06/28/2022 12:53:54 PM: INFO: ************** Login is successful **************
+06/28/2022 12:53:54 PM: INFO: ************** Login is successful **************
+06/28/2022 12:53:54 PM: INFO: ************** Login is successful **************
+06/28/2022 12:53:54 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:53:54 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:53:54 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:53:54 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:53:54 PM: INFO: ************** Starting Search Customer By Email **************
+06/28/2022 12:54:05 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:54:05 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:54:05 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:54:05 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:54:05 PM: INFO: ************** Test_004_SearchCustomerByName **************
+06/28/2022 12:54:11 PM: INFO: ************** Login is successful **************
+06/28/2022 12:54:11 PM: INFO: ************** Login is successful **************
+06/28/2022 12:54:11 PM: INFO: ************** Login is successful **************
+06/28/2022 12:54:11 PM: INFO: ************** Login is successful **************
+06/28/2022 12:54:11 PM: INFO: ************** Login is successful **************
+06/28/2022 12:54:11 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:54:11 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:54:11 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:54:11 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:54:11 PM: INFO: ************** Starting Search Customer By Name **************
+06/28/2022 12:54:16 PM: INFO: ************** Email is found and present. **************
+06/28/2022 12:54:16 PM: INFO: ************** Email is found and present. **************
+06/28/2022 12:54:16 PM: INFO: ************** Email is found and present. **************
+06/28/2022 12:54:16 PM: INFO: ************** Email is found and present. **************
+06/28/2022 12:54:16 PM: INFO: ************** Email is found and present. **************
+06/28/2022 12:54:16 PM: INFO: ************** Test Case 005 is Passed. **************
+06/28/2022 12:54:16 PM: INFO: ************** Test Case 005 is Passed. **************
+06/28/2022 12:54:16 PM: INFO: ************** Test Case 005 is Passed. **************
+06/28/2022 12:54:16 PM: INFO: ************** Test Case 005 is Passed. **************
+06/28/2022 12:54:16 PM: INFO: ************** Test Case 005 is Passed. **************
+06/28/2022 12:55:29 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 12:55:29 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 12:55:29 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 12:55:29 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 12:55:29 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 12:55:36 PM: INFO: ************** Login is successful **************
+06/28/2022 12:55:36 PM: INFO: ************** Login is successful **************
+06/28/2022 12:55:36 PM: INFO: ************** Login is successful **************
+06/28/2022 12:55:36 PM: INFO: ************** Login is successful **************
+06/28/2022 12:55:36 PM: INFO: ************** Login is successful **************
+06/28/2022 12:55:36 PM: INFO: ************** Starting Add Customer Test **************
+06/28/2022 12:55:36 PM: INFO: ************** Starting Add Customer Test **************
+06/28/2022 12:55:36 PM: INFO: ************** Starting Add Customer Test **************
+06/28/2022 12:55:36 PM: INFO: ************** Starting Add Customer Test **************
+06/28/2022 12:55:36 PM: INFO: ************** Starting Add Customer Test **************
+06/28/2022 12:55:45 PM: INFO: ************** Finishing Adding Customer Info **************
+06/28/2022 12:55:45 PM: INFO: ************** Finishing Adding Customer Info **************
+06/28/2022 12:55:45 PM: INFO: ************** Finishing Adding Customer Info **************
+06/28/2022 12:55:45 PM: INFO: ************** Finishing Adding Customer Info **************
+06/28/2022 12:55:45 PM: INFO: ************** Finishing Adding Customer Info **************
+06/28/2022 12:55:45 PM: INFO: ************** Add Customer Test Passed **************
+06/28/2022 12:55:45 PM: INFO: ************** Add Customer Test Passed **************
+06/28/2022 12:55:45 PM: INFO: ************** Add Customer Test Passed **************
+06/28/2022 12:55:45 PM: INFO: ************** Add Customer Test Passed **************
+06/28/2022 12:55:45 PM: INFO: ************** Add Customer Test Passed **************
+06/28/2022 12:55:45 PM: INFO: ************** Ending Home Page Title Test **************
+06/28/2022 12:55:45 PM: INFO: ************** Ending Home Page Title Test **************
+06/28/2022 12:55:45 PM: INFO: ************** Ending Home Page Title Test **************
+06/28/2022 12:55:45 PM: INFO: ************** Ending Home Page Title Test **************
+06/28/2022 12:55:45 PM: INFO: ************** Ending Home Page Title Test **************
+06/28/2022 12:55:47 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:55:47 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:55:47 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:55:47 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:55:47 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 12:55:53 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:55:53 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:55:53 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:55:53 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 12:55:53 PM: INFO: *********** Verifying Login Test is passed **************
+06/28/2022 01:13:18 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 01:13:18 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 01:13:18 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 01:13:18 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 01:13:18 PM: INFO: ************** Test_003_AddCustomer **************
+06/28/2022 01:13:19 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 01:13:19 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 01:13:19 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 01:13:19 PM: INFO: *********** Verifying Login Test **************
+06/28/2022 01:13:19 PM: INFO: *********** Verifying Login Test **************

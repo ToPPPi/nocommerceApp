@@ -1,0 +1,4 @@
+1. Download Jenkins.war
+2. Open cmd and type in: "java -jar jenkins.war"
+3. Open http://localhost:8080 in browser.
+4. Run it everytime you want to work with jenkins.

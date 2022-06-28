@@ -1,0 +1,21 @@
+Create local git repository for you project.
+Workflow:
+Untracked File (Add command) ---> Tracked File (Commit command) ---> Committed File (Push command) ---> Remote File
+
+
+
+1. Right click on your folder when the project is stored and select Git Bash.
+2. When the Git command prompt is opened run:
+    - git init
+3. Create a new repository in Github.
+4. Run the following code in the Git command prompt:
+    - git remote add origin https://github.com/ToPPPi/nocommerceApp.git
+    It will connect your local git with Github.
+5. Run only one time:
+    - git config --global user.name "topppi"
+    - git config --global user.email "dmitriyqw1@gmail.com"
+6. To check the current status:
+    - git status
+7. Add your code to "Staging" area.
+    - git add -A
+8. Add your code to Git repository.
