@@ -1,5 +1,6 @@
 import pytest
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 
 # Чтобы не создавать по несколько раз "self.driver = webdriver.Chrome()", он заменяется фикстурой ниже. Удалить "self" в test_Login.py и заменить на setup.
 # @pytest.fixture()
@@ -33,7 +34,7 @@ def setup(browser):
         driver = webdriver.Firefox(executable_path="C://Program Files (x86)//chromedriver//geckodriver.exe")
         print("Launching Firefox browser.")
     else:
-        driver = webdriver.Chrome(executable_path="C://PycharmProjects//nopcommerceApp//Drivers//chromedriver.exe")
+        driver = webdriver.Chrome(ChromeDriverManager().install())
         print("Launching Default browser")
     return driver
 
