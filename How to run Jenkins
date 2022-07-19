@@ -2,3 +2,11 @@
 2. Open cmd and type in: "java -jar jenkins.war"
 3. Open http://localhost:8080 in browser.
 4. Run it everytime you want to work with jenkins.
+
+CLI to run tests:
+- Go to: "http://localhost:8080/cli/"
+- Go to Jenkins folder and run via cmd:     java -jar jenkins-cli.jar -s http://localhost:8080/ -webSocket help
+- Go to: "http://localhost:8080/cli/" and click "Build".
+- Go to Jenkins folder and run via cmd:     java -jar jenkins-cli.jar -s http://localhost:8080/ -webSocket build JOB -s
+
+Если проблема с аутентификацией то: java -jar jenkins-cli.jar -s http://localhost:8080/help --username ToPPi --password 123QWEasdZXC

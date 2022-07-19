@@ -371,3 +371,178 @@
 07/08/2022 10:14:31 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
 07/08/2022 10:14:32 AM: INFO: ************** Test_001_Login **************
 07/08/2022 10:14:32 AM: INFO: *********** Verifying Home Page **************
+07/19/2022 02:44:38 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:44:38 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:44:38 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:44:38 AM: INFO: About to download new driver from https://chromedriver.storage.googleapis.com/103.0.5060.53/chromedriver_win32.zip
+07/19/2022 02:44:38 AM: INFO: Driver has been saved in cache [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53]
+07/19/2022 02:44:39 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:44:49 AM: INFO: ************** Login is successful **************
+07/19/2022 02:44:49 AM: INFO: ************** Starting Add Customer Test **************
+07/19/2022 02:45:04 AM: INFO: ************** Finishing Adding Customer Info **************
+07/19/2022 02:45:05 AM: INFO: ************** Add Customer Test Passed **************
+07/19/2022 02:45:05 AM: INFO: ************** Ending Home Page Title Test **************
+07/19/2022 02:45:08 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:45:08 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:45:08 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:45:08 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:45:09 AM: INFO: ************** Test_001_Login **************
+07/19/2022 02:45:09 AM: INFO: *********** Verifying Home Page **************
+07/19/2022 02:45:15 AM: INFO: *********** CheckHomePageTitle is passed **************
+07/19/2022 02:45:15 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:45:15 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:45:15 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:45:16 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:45:17 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:45:23 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:45:33 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:45:33 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:45:33 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:45:33 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:45:35 AM: INFO: ************** Test_004_SearchCustomerByEmail **************
+07/19/2022 02:45:41 AM: INFO: ************** Login is successful **************
+07/19/2022 02:45:41 AM: INFO: ************** Starting Search Customer By Email **************
+07/19/2022 02:46:15 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:46:15 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:46:15 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:46:15 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:46:17 AM: INFO: ************** Test_004_SearchCustomerByName **************
+07/19/2022 02:46:23 AM: INFO: ************** Login is successful **************
+07/19/2022 02:46:23 AM: INFO: ************** Starting Search Customer By Name **************
+07/19/2022 02:46:28 AM: INFO: ************** Email is found and present. **************
+07/19/2022 02:46:28 AM: INFO: ************** Test Case 005 is Passed. **************
+07/19/2022 02:47:52 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:47:52 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:47:52 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:47:52 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:47:52 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:47:52 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:47:52 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:47:52 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:47:52 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:47:52 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:47:52 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:47:52 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:47:52 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:47:52 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:47:52 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:47:52 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:47:52 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:47:52 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:47:52 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:47:52 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:47:53 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:47:53 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:47:53 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:47:53 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:47:53 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:48:15 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:48:15 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:48:15 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:48:15 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:48:15 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:48:15 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:48:15 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:48:15 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:48:15 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:48:15 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:48:15 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:48:15 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:48:15 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:48:15 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:48:15 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:48:15 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:48:15 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:48:15 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:48:15 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:48:15 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:48:16 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:48:16 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:48:16 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:48:16 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:48:16 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:48:38 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:48:38 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:48:38 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:48:38 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:48:38 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:49:37 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:37 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:37 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:37 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:37 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:37 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:37 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:37 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:37 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:37 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:37 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:37 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:37 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:37 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:37 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:37 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:37 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:37 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:37 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:37 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:38 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:49:38 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:49:38 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:49:38 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:49:38 AM: INFO: ************** Test_003_AddCustomer **************
+07/19/2022 02:49:45 AM: INFO: ************** Login is successful **************
+07/19/2022 02:49:45 AM: INFO: ************** Login is successful **************
+07/19/2022 02:49:45 AM: INFO: ************** Login is successful **************
+07/19/2022 02:49:45 AM: INFO: ************** Login is successful **************
+07/19/2022 02:49:45 AM: INFO: ************** Login is successful **************
+07/19/2022 02:49:45 AM: INFO: ************** Starting Add Customer Test **************
+07/19/2022 02:49:45 AM: INFO: ************** Starting Add Customer Test **************
+07/19/2022 02:49:45 AM: INFO: ************** Starting Add Customer Test **************
+07/19/2022 02:49:45 AM: INFO: ************** Starting Add Customer Test **************
+07/19/2022 02:49:45 AM: INFO: ************** Starting Add Customer Test **************
+07/19/2022 02:49:58 AM: INFO: ************** Finishing Adding Customer Info **************
+07/19/2022 02:49:58 AM: INFO: ************** Finishing Adding Customer Info **************
+07/19/2022 02:49:58 AM: INFO: ************** Finishing Adding Customer Info **************
+07/19/2022 02:49:58 AM: INFO: ************** Finishing Adding Customer Info **************
+07/19/2022 02:49:58 AM: INFO: ************** Finishing Adding Customer Info **************
+07/19/2022 02:49:58 AM: INFO: ************** Add Customer Test Passed **************
+07/19/2022 02:49:58 AM: INFO: ************** Add Customer Test Passed **************
+07/19/2022 02:49:58 AM: INFO: ************** Add Customer Test Passed **************
+07/19/2022 02:49:58 AM: INFO: ************** Add Customer Test Passed **************
+07/19/2022 02:49:58 AM: INFO: ************** Add Customer Test Passed **************
+07/19/2022 02:49:58 AM: INFO: ************** Ending Home Page Title Test **************
+07/19/2022 02:49:58 AM: INFO: ************** Ending Home Page Title Test **************
+07/19/2022 02:49:58 AM: INFO: ************** Ending Home Page Title Test **************
+07/19/2022 02:49:58 AM: INFO: ************** Ending Home Page Title Test **************
+07/19/2022 02:49:58 AM: INFO: ************** Ending Home Page Title Test **************
+07/19/2022 02:49:58 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:58 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:58 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:58 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:58 AM: INFO: ====== WebDriver manager ======
+07/19/2022 02:49:58 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:58 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:58 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:58 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:58 AM: INFO: Current google-chrome version is 103.0.5060
+07/19/2022 02:49:58 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:58 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:58 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:58 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:58 AM: INFO: Get LATEST chromedriver version for 103.0.5060 google-chrome
+07/19/2022 02:49:58 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:58 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:58 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:58 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:58 AM: INFO: Driver [C:\Users\Dmitry\.wdm\drivers\chromedriver\win32\103.0.5060.53\chromedriver.exe] found in cache
+07/19/2022 02:49:59 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:49:59 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:49:59 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:49:59 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:49:59 AM: INFO: *********** Verifying Login Test **************
+07/19/2022 02:50:05 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:50:05 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:50:05 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:50:05 AM: INFO: *********** Verifying Login Test is passed **************
+07/19/2022 02:50:05 AM: INFO: *********** Verifying Login Test is passed **************

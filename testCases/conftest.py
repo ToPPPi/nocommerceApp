@@ -28,7 +28,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 @pytest.fixture()
 def setup(browser):
     if browser == "chrome":
-        driver = webdriver.Chrome(executable_path="C://PycharmProjects//nopcommerceApp//Drivers//chromedriver.exe")
+        driver = webdriver.Chrome(ChromeDriverManager().install())
         print("Launching Chrome browser.")
     elif browser == 'firefox':
         driver = webdriver.Firefox(executable_path="C://Program Files (x86)//chromedriver//geckodriver.exe")
@@ -49,12 +49,12 @@ def browser (request):
 
 #Pytest HTML Reports.
 
-def pytest_configure(config):
-    config._metadata["Project Name"] = "nop Commerce"
-    config._metadata["Module Name"] = "Customers"
-    config._metadata["Tester"] = "Tester"
-
-@pytest.mark.optionalhook
-def pytest_metadata(metadata):
-    metadata.pop("JAVA_HOME", None)
-    metadata.pop("Plugins", None)
+# def pytest_configure(config):
+#     config._metadata["Project Name"] = "nop Commerce"
+#     config._metadata["Module Name"] = "Customers"
+#     config._metadata["Tester"] = "Tester"
+#
+# @pytest.mark.optionalhook
+# def pytest_metadata(metadata):
+#     metadata.pop("JAVA_HOME", None)
+#     metadata.pop("Plugins", None)
